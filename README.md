@@ -11,5 +11,6 @@ IDE = Visual Studio Code
 ==>Task 2 - Tribute Page 
   - HTML
   - CSS 
-	    Thank You.. :smile:
+	  
+	  Thank You.. :smile:
  
